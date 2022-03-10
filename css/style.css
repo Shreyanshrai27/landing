@@ -1,0 +1,87 @@
+.top {
+    background-color: #1f2937;
+    color :#ffffff;
+}
+
+.gun {
+    display :flex;
+    padding-left:100px;
+    gap: 400px;
+}
+
+.maverick {
+    display:flex;
+    gap:500px;
+    border :30px;
+    padding :70px;
+}
+.h {
+    width :70px;
+    height :auto;
+}
+.tom {
+    display :flex;
+    gap :100px;
+}
+h1{
+    font-size: 48px;
+    color:#f9faf8;
+    font-weight: bolder;
+}
+
+p {
+    font-size:18px;
+    color:#E5E7Eb;
+}
+.first {
+    
+    width :150px;
+    height :auto;
+}
+button {
+    background-color: #3882f6;
+    color:#ffffff;
+    display :flex;
+    padding :5px 10px;
+
+}
+
+.middle {
+    text-align: center;
+}
+.bat {
+    display :flex;
+    padding :50px;
+    justify-content: space-evenly;
+}
+.man {
+    height :250px;
+    width :250px;
+}
+.bottom {
+    margin :100px;
+    margin :100px 250px;
+    padding: 20px 50px;
+    background-color:#3882f6;
+    color:#ffffff;
+    font-size: 25px;
+}
+
+.lower {
+    display :flex;
+    flex-direction :column;
+    padding :25px 50px;
+    align-items: center;    
+    background-color: #E5E7Eb;
+    color :black;
+    font-size: 35px;
+}
+
+.lat {
+    margin-left: 1000px;
+}
+.last {
+    font-size: 25px;
+    display: flex;
+    justify-content: space-between;
+}
